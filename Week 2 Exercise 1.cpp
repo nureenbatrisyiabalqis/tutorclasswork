@@ -1,7 +1,7 @@
 /** 
 * Nureen Batrisyia Balqis binti Karimudin
 * Matric No. : 2112830
-* Lab #1 Section 4
+* Lab #2 Section 4
 */
 
 #include <iostream>
